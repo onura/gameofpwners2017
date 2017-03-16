@@ -1,0 +1,3 @@
+put some flag under session directory e.g:
+
+echo "GoP_{allyours3ssionsaremine}" > /var/lib/php/session/sess_flag
